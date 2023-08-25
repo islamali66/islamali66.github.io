@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: Site Title
+title: Ali's website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Islam Ali
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "A clinician-researcher and a postdoctoral scholar with a particular reasearch focus on studying the cell-to-cell communication (quorum sensing) phenomenon in microorganisms implicated in the pathogenesis of dental root canal infections."
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
